@@ -9,5 +9,5 @@ The purpose of this database is to provide data support for cross-device matchin
 </div>
 
 ## Raman spectral data preprocessing method
-The conventional Raman spectra often contain noise and fluorescence, which will affect the subsequent spectrum matching process. In order to ensure the quality of the collected Raman signals, Savitzky-Golay convolutional smoothing algorithm and airPLS algorithm were used to de-noise and limit correction after the collected Raman spectral data
+Conventional Raman spectra often contain noise and fluorescence, which will affect the subsequent spectral matching process. In order to ensure the quality of the collected Raman signals, after de-noising and limiting correction of the collected Raman spectral data, the Savitzky-Golay convolutional smoothing algorithm and airPLS algorithm are used for de-noising and baseline correction respectively
 ## The collection and storage detail of database
