@@ -4,10 +4,14 @@ Raman spectroscopy has become one of the main methods for substance detection, b
 The purpose of this database is to provide data support for cross-device matching identification of Raman substances and flexible application of multi-scenario equipment. It is acceptable to use this database to develop new technologies, methods, algorithms or systems for Raman substance detection。
 ## Acquisition technology
 <div align=center>
-	<img src="https://github.com/user-attachments/assets/f675ecbd-ae42-4144-8c6a-fa0f5314565a"/>
+	<img src="https://github.com/user-attachments/assets/7d013af2-7fc6-4cae-ae9e-7cb49e332dc7"/>
   <img src="https://github.com/user-attachments/assets/3fd397db-b454-48a5-ac14-e08e8eef106f"/>
 </div>
 
+
 ## Raman spectral data preprocessing method
 Conventional Raman spectra often contain noise and fluorescence, which will affect the subsequent spectral matching process. In order to ensure the quality of the collected Raman signals, after de-noising and limiting correction of the collected Raman spectral data, the Savitzky-Golay convolutional smoothing algorithm and airPLS algorithm are used for de-noising and baseline correction respectively
+![image](https://github.com/user-attachments/assets/f5f33e51-b3c5-4f68-8e0f-5e6dd43c3c4f)
+
+
 ## The collection and storage detail of database
