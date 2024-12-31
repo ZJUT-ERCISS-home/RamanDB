@@ -18,8 +18,17 @@ We have designed two Raman spectrum acquisition systems for detecting liquids an
 
 ## The collection and storage detail of database
 ### Details of Raman spectral data storage
-We collected spectral data for 2 to 3 integral times for each substance and stored them in.CSV files. There are 10 rows spectral data for each integral time.Each row has 2054 values. The specific structure is shown in the following table.
-![image](https://github.com/user-attachments/assets/2dbc5bd9-9182-42df-a805-999d48eee830)
+We collected spectral data for 2 to 3 integral times for each substance and stored them in.CSV files. There are 10 rows spectral data for each integral time.Each row has 2054 values. The specific structure is shown in  Table 3 and Table 4.
+<div align=center>
+  <img src="https://github.com/user-attachments/assets/2dbc5bd9-9182-42df-a805-999d48eee830"/>
+	<p align="center">Table 3.Data storage structure table</p>
+</div>
+<div align=center>
+  <img src="https://github.com/user-attachments/assets/de27309a-c312-4dbf-97fe-2b55a88d9fcb"/>
+	<p align="center">Table 4.Spectral acquisition quantity</p>
+</div>
+
+
 
 
 ## Spectral example
