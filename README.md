@@ -1,5 +1,5 @@
 # ZJUT-RamanDB:Multi-classification, cross-device Raman database
-Raman spectroscopy has become one of the main methods for substance detection, but its application depends on a universal Raman database. At present, the existing open Raman database has a single material type and integration time, and can not meet the needs of cross-device matching and identification, which limits the application of Raman spectroscopy technology in cross-field and cross-device. This led us to design and publish a comprehensive cross-device Raman database of more than 4,500 spectral data points for 132 substances, called as ZJUT-RamanDB.
+Raman spectroscopy has become one of the main methods for substance detection, but its application depends on a universal Raman database. At present, the existing open Raman database has a single material type and integration time, and can not meet the needs of cross-device matching and identification, which limits the application of Raman spectroscopy technology in cross-field and cross-device. This led us to design and publish a comprehensive cross-device Raman database of more than 9,000 spectral data points for 151 substances, called as ZJUT-RamanDB.
 ## Goal of Database
 The purpose of this database is to provide data support for cross-device matching identification of Raman substances and flexible application of multi-scenario equipment. It is acceptable to use this database to develop new technologies, methods, algorithms or systems for Raman substance detection。
 ## Acquisition technology
@@ -52,6 +52,7 @@ We collected spectral data for 2 to 3 integral times for each substance and stor
   <img src="https://github.com/user-attachments/assets/f3e8786d-b42f-458c-9927-14bc8c544dcb"/>
 </div>
 
-
+## The Protocol
+A portion of the data is shown in the ZJUT-RamanDB folder. Call for protocol and get the complete database via email chenpeng@zjut.edu.cn.
 
 
