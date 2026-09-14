@@ -52,7 +52,7 @@ We collected spectral data for 2 to 3 integral times for each substance and stor
   <img src="https://github.com/user-attachments/assets/f3e8786d-b42f-458c-9927-14bc8c544dcb"/>
 </div>
 
-## The Protocol
+## The protocol
 A portion of the data is shown in the ZJUT-RamanDB folder. Call for protocol and get the complete database via email chenpeng@zjut.edu.cn.
 
 
