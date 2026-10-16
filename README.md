@@ -1,7 +1,7 @@
 # ZJUT-RamanDB:Multi-classification, cross-device Raman database
 Raman spectroscopy has become one of the main methods for substance detection, but its application depends on a universal Raman database. At present, the existing open Raman database has a single material type and integration time, and can not meet the needs of cross-device matching and identification, which limits the application of Raman spectroscopy technology in cross-field and cross-device. This led us to design and publish a comprehensive cross-device Raman database of more than 9,000 spectral data points for 151 substances, called as ZJUT-RamanDB.
 ## Goal of Database
-The purpose of this database is to provide data support for cross-device matching identification of Raman substances and flexible application of multi-scenario equipment. It is acceptable to use this database to develop new technologies, methods, algorithms or systems for Raman substance detection。
+The purpose of this database is to provide data support for cross-device matching identification of Raman substances and flexible application of multi-scenario equipment. It is acceptable to use this database to develop new technologies, methods, algorithms or systems for Raman substance detection.
 ## Acquisition technology
 We have designed two Raman spectrum acquisition systems for detecting liquids and solids. The equipment display diagram is shown in Figure 1. Table 1 shows the device parameters
 <div align=center>
@@ -10,11 +10,15 @@ We have designed two Raman spectrum acquisition systems for detecting liquids an
 </div>
 
 
-<div align=center>
+<!-- <div align=center>
  <img src="https://github.com/user-attachments/assets/20166513-83b8-4d37-b640-92af28f58198"/>
  <p align="center">Table1. Equipment parameter table</p>
-</div>
+</div> -->
 
+<div align=center>
+ <img src="https://github.com/user-attachments/assets/d6adcae4-a318-43fe-9ccd-a2a0e3cad2f7" />
+ <p align="center">Table1. Equipment parameter table</p>
+</div>
 
 ## The collection and storage detail of database
 ### Details of Raman spectral data storage
@@ -23,11 +27,14 @@ We collected spectral data for 2 to 3 integral times for each substance and stor
   <img src="https://github.com/user-attachments/assets/2dbc5bd9-9182-42df-a805-999d48eee830"/>
 	<p align="center">Table 3.Data storage structure table</p>
 </div>
-<div align=center>
+<!-- <div align=center>
   <img src="https://github.com/user-attachments/assets/de27309a-c312-4dbf-97fe-2b55a88d9fcb"/>
 	<p align="center">Table 4.Spectral acquisition quantity</p>
+</div> -->
+<div align=center>
+  <img src="https://github.com/user-attachments/assets/78f627c1-7a91-48c4-962b-ca6cc181bb09" />
+	<p align="center">Table 4.Spectral acquisition quantity</p>
 </div>
-
 
 
 
