@@ -16,7 +16,7 @@ We have designed two Raman spectrum acquisition systems for detecting liquids an
 </div> -->
 
 <div align=center>
- <img src="https://github.com/user-attachments/assets/d6adcae4-a318-43fe-9ccd-a2a0e3cad2f7" />
+ <img src="https://github.com/user-attachments/assets/10e73013-9456-4aa2-a0ea-7ebe2a87272a" />
  <p align="center">Table1. Equipment parameter table</p>
 </div>
 
