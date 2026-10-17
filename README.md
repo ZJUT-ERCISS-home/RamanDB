@@ -1,5 +1,5 @@
 # ZJUT-RamanDB:Multi-classification, cross-device Raman database
-Raman spectroscopy has become one of the main methods for substance detection, but its application depends on a universal Raman database. At present, the existing open Raman database has a single material type and integration time, and can not meet the needs of cross-device matching and identification, which limits the application of Raman spectroscopy technology in cross-field and cross-device. This led us to design and publish a comprehensive cross-device Raman database of more than 9,000 spectral data points for 151 substances, called as ZJUT-RamanDB.
+Raman spectroscopy has become one of the main methods for substance detection, but its application depends on a universal Raman database. At present, the existing open Raman database has a single material type and integration time, and can not meet the needs of cross-device matching and identification, which limits the application of Raman spectroscopy technology in cross-field and cross-device. This led us to design and publish a comprehensive cross-device Raman database of 9,400 spectra for 151 substances, called as ZJUT-RamanDB.
 ## Goal of Database
 The purpose of this database is to provide data support for cross-device matching identification of Raman substances and flexible application of multi-scenario equipment. It is acceptable to use this database to develop new technologies, methods, algorithms or systems for Raman substance detection.
 ## Acquisition technology
@@ -16,24 +16,24 @@ We have designed two Raman spectrum acquisition systems for detecting liquids an
 </div> -->
 
 <div align=center>
- <img src="https://github.com/user-attachments/assets/10e73013-9456-4aa2-a0ea-7ebe2a87272a" />
+ <img src="https://github.com/user-attachments/assets/7b52eb1b-0d7b-43c7-9002-b10a7789ad3e" />
  <p align="center">Table1. Equipment parameter table</p>
 </div>
 
 ## The collection and storage detail of database
 ### Details of Raman spectral data storage
-We collected spectral data for 2 to 3 integral times for each substance and stored them in.CSV files. There are 10 rows spectral data for each integral time.Each row has 2054 values. The specific structure is shown in  Table 3 and Table 4.
+We collected spectral data for 2 to 4 integral times for each substance and stored them in CSV files. There are 10 rows spectral data for each integral time. Each row has 2054 values. The specific structure is shown in  Table 2 and Table 3.
 <div align=center>
   <img src="https://github.com/user-attachments/assets/2dbc5bd9-9182-42df-a805-999d48eee830"/>
-	<p align="center">Table 3.Data storage structure table</p>
+	<p align="center">Table 2.Data storage structure table</p>
 </div>
 <!-- <div align=center>
   <img src="https://github.com/user-attachments/assets/de27309a-c312-4dbf-97fe-2b55a88d9fcb"/>
 	<p align="center">Table 4.Spectral acquisition quantity</p>
 </div> -->
 <div align=center>
-  <img src="https://github.com/user-attachments/assets/78f627c1-7a91-48c4-962b-ca6cc181bb09" />
-	<p align="center">Table 4.Spectral acquisition quantity</p>
+  <img src="https://github.com/user-attachments/assets/e2da5da7-8fdd-456b-a267-a4da55afa5b7" />
+	<p align="center">Table 3.Spectral acquisition quantity</p>
 </div>
 
 
